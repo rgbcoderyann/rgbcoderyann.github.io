@@ -19,6 +19,7 @@ h2{
     font-size: 45px;
 }
 h3{
+font-family: 'Bungee Shade', cursive;
     color: ;
 }
 #lit{
@@ -39,7 +40,7 @@ header{
 }
 h1{
     font-size: 50px;    
-    font-family: 'Bungee Shade', cursive;
+    font-family: 'Bungee Inline', cursive;
 }
 #header-pic{
     margin: 40px 0px 0px 0px;
