@@ -11,7 +11,7 @@ body{
 article{
     max-width: 500px;
     padding: 20px;
-    margin: 40px 0px 0px 0px;
+    margin: 0 auto;
 }
 h2{
     text-align: center;
