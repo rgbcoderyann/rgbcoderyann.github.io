@@ -1,5 +1,5 @@
 body{
-    background-color:#f1e3f3;
+    background-color:##fbb703;
     font-family: 'Special Elite', cursive;
     text-align: left;
     color: #331e38;
@@ -44,7 +44,7 @@ h1{
 }
 #header-pic{
     margin: 40px 0px 0px 0px;
-    border: 10px solid #F2DC5D;
+    border: 10px solid #f2dc5d;
     border-radius: 150px;
 
 }
@@ -52,7 +52,7 @@ div{
  text-align: center;
 }
 #pic{	
-    border: 10px solid #F2DC5D;
+    border: 10px solid #f2dc5d;
     border-radius: 150px;
 }
 .button {
