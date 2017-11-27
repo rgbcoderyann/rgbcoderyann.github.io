@@ -8,7 +8,7 @@ body{
     margin-bottom:0px;
     margin-left: 0px;  
 }
-article{
+body{
     max-width: 500px;
     padding: 20px;
     margin: 0 auto;
@@ -45,8 +45,10 @@ h1{
     border-radius: 150px;
 
 }
+div{
+ 	margin: 0 auto;
+}
 #pic{
-    margin: 0 auto;
     border: 10px solid #8F95D3;
     border-radius: 150px;
 }
