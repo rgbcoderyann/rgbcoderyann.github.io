@@ -167,3 +167,49 @@ p{
     padding: 20px;
     margin: 0 auto;
 }
+Text
+  
+Font Size: 
+  bold   italic
+Size
+Vertical Size: 
+Horizontal Size: 
+Border
+Border Radius: 
+Border Size: 
+ Box Shadow   /   inset
+Vertical Position: 
+Horizontal Position: 
+Blur Radius: 
+Spread Radius: 
+ Text Shadow
+Vertical Position: 
+Horizontal Position: 
+Blur Radius: 
+<a href="#" class="myButton">my button</a>
+
+.myButton {
+	-moz-box-shadow: 0px 3px 9px 2px #331e38;
+	-webkit-box-shadow: 0px 3px 9px 2px #331e38;
+	box-shadow: 0px 3px 9px 2px #331e38;
+	background-color:#fab300;
+	-moz-border-radius:19px;
+	-webkit-border-radius:19px;
+	border-radius:19px;
+	border:1px solid #f8b1d7;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:8px 20px;
+	text-decoration:none;
+	text-shadow:2px 2px 0px #810e05;
+}
+.myButton:hover {
+	background-color:#fbb903;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
